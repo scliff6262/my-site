@@ -28,3 +28,19 @@ div.trait-container {
 div.trait-container svg {
   font-size: 400%;
 }
+
+div#bio-container {
+  position: relative;
+  width: 100%;
+}
+
+div#bio {
+  display: inline-block;
+  text-align: right;
+  width: 50%;
+}
+
+div#bio-img-container {
+  display: inline-block;
+  width: 50%
+}
